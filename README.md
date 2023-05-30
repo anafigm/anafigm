@@ -1,6 +1,6 @@
 ### Hi there! I'm Ana 👋 👩🏻‍💻 
 
-![Ana](https://img.shields.io/badge/Frontend-Developer-yellow)
+![Ana](https://img.shields.io/badge/Frontend-Developer-E798FF)
 
 ---
 
