@@ -1,6 +1,6 @@
-### Hi there! I'm Ana 👋 👩🏻‍💻 
+### Hi there! I'm Ana 👋 👩🏻‍💻✨
 
-![Ana](https://img.shields.io/badge/Frontend-Developer-E798FF)
+![Ana](https://img.shields.io/badge/Frontend-Developer-FFB387)
 
 ---
 
@@ -17,6 +17,6 @@
 ![Npm](https://img.shields.io/badge/npm-323330?style=flate&logo=npm&logoColor=CB3837)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat&logo=sketch&logoColor=white)
+![Sketch](https://img.shields.io/badge/Sketch-FF7843?style=flat&logo=sketch&logoColor=white)
 
 </div>
